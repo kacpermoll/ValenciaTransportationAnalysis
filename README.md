@@ -1,0 +1,5 @@
+# Transportation Optimization Study in Valencia
+This repository contains a research paper that focuses on optimizing the transportation model in Valencia, with the goal of improving the city's standard of living. The study proposes a comprehensive analysis of the existing transportation system and the implementation of Internet of Things (IoT) devices to achieve optimization.
+
+## Abstract
+Public transportation plays a crucial role in enhancing the quality of life in cities. It is essential to continuously improve the transportation system, but this does not necessarily require investing in new vehicles. Instead, a key step towards optimization is conducting a thorough analysis of the current system and utilizing IoT devices. This study specifically addresses the transportation issue in Valencia and aims to optimize the existing transportation model without incurring additional costs by leveraging the available infrastructure. The proposed approach involves the establishment of a data collection system that enables regular optimization and enhances the flexibility of the transport model..
